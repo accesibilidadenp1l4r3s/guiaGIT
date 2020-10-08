@@ -29,4 +29,4 @@ Para lograr cualquiera de estos usos es conveniente pero no mandatorio tener ins
 En la siguiente entrada hablaremos sobre la instalación de Git en diferentes
 sistemas operativos.
 
-* [02 Instalación](..02instalacion)
+* [02 Instalación](../02instalacion)
